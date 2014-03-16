@@ -1,13 +1,13 @@
 Thinkful_shopping_list
 =====================
---
-Thinkful Shopping List Project:  
+-
+Project: shopping list app
 -
 -----------
 Version 1.0
 -----------
 
-First pass at making a working shopping list app. 
+First pass with basic functionality.
 Passable, but not great. 
 
 -----------
