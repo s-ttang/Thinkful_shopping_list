@@ -1,7 +1,7 @@
 Thinkful_shopping_list
 =====================
 -
-Project: shopping list app
+Project: Shopping List app
 -
 -----------
 Version 1.0
