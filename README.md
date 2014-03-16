@@ -1,8 +1,8 @@
 Thinkful_shopping_list
 =====================
-
+--
 Thinkful Shopping List Project:  
-
+-
 -----------
 Version 1.0
 -----------
