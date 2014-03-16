@@ -1,4 +1,4 @@
-Thinkful_reading_list
+Thinkful_shopping_list
 =====================
 
 Thinkful Shopping List Project:  
@@ -18,12 +18,15 @@ To be committed soon...
 Recoded from scratch.
 Refined both syntactically and visually.
 
-Side Project 
+
 
 ------------
+Side Project: Reading List
+------------
+
+---
 Version 1.0
-------------
-
+---
 A reading list. To be committed soon...
 
 
